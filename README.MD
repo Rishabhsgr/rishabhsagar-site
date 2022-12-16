@@ -1,5 +1,3 @@
-I wil be building a webapp for my portfolio
-I am Rishabh Sagar
+Hey! I am Rishabh Sagar
+I will be posting my work here for portfolio
 I like pc games
-
-renameing ex
